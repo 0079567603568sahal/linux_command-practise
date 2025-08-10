@@ -16,3 +16,9 @@ This repository was created as part of a Git & GitHub practice exercise:
 2. Cloned it locally using:
    ```bash
    git clone https://github.com/0079567603568sahal/linux_command-practise.git
+##Added the .docx file.
+##Committed and pushed to GitHub:
+git add linux_commands_practice.docx
+git commit -m "Added Linux commands practice document"
+git push origin main
+
